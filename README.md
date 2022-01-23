@@ -16,6 +16,8 @@ Most of the libraries used on the project, such as pandas, numpy, matplotlib and
 You will need to install the following libraries used for dowload and read the data, do natural language preprocessing and use the BERT Neural Nertork model:
  * kaggle==1.5.6
  * zipfile
+ * plotly
+ * kaleido
  * wordcloud
  * nltk
  * gensim
